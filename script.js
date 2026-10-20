@@ -1,1 +1,0 @@
-const amor = "infinito"
