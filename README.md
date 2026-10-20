@@ -1,6 +1,7 @@
 ### Bodia! :D 
 
-✨  •  Sou RafaBM, Desenvolvedor Iniciante e Artista 2D 
+✨  •  Sou **RafaBM**, Desenvolvedor Iniciante e Artista 2D 
+      ~ **Pronomes: ele/dele**
 
 🔮  •  Atualmente estou Aprendendo JavaScript, Python, HTML, e CSS :>
 
