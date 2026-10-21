@@ -1,9 +1,10 @@
 ### Bodia! :D 
 
 ✨  •  Sou **RafaBM**, Desenvolvedor Iniciante e Artista 2D 
-      ~ **Pronomes: ele/dele**
+__________
 
 🔮  •  Atualmente estou Aprendendo JavaScript, Python, HTML, e CSS :>
+_________________
 
 ### 👀 | Projectos em Andamento: | 👀
 - Bot Público para Discord;
