@@ -2,6 +2,7 @@
 <p>Begginer Developer & 2D Artist, Learning Python and JavaScript!</p>
 
 <img src="teto.png">
+
 ---
 
 <h3>Languages</h3>
